@@ -29,6 +29,8 @@ tmp/**
 res/data/*
 res/doc/**
 res/icons/*
+!res/icons/brillouin3d.svg
+!res/icons/unitcell3d.svg
 !res/icons/brillouin.svg
 !res/icons/ellipses.svg
 !res/icons/goto.svg
