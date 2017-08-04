@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <taz>
 	<meta>
-		<comment/>
+		<comment>TASP parameters based on PSI Proceedings 96-02 35-42, 1996.</comment>
 		<timestamp>1500967578.654766</timestamp>
 	</meta>
 	<reso>
@@ -61,12 +61,6 @@
 		<pop_src_w>3.500000e+00</pop_src_w>
 		<sample_mosaic>5.000000e+00</sample_mosaic>
 		<sample_scatter_sense>1</sample_scatter_sense>
-		<simple_sig_kf>3.000000e-02</simple_sig_kf>
-		<simple_sig_kf_perp>1.000000e-02</simple_sig_kf_perp>
-		<simple_sig_kf_z>0.000000e+00</simple_sig_kf_z>
-		<simple_sig_ki>3.000000e-02</simple_sig_ki>
-		<simple_sig_ki_perp>1.000000e-02</simple_sig_ki_perp>
-		<simple_sig_ki_z>3.000000e-02</simple_sig_ki_z>
 		<use_R0>1</use_R0>
 		<use_guide>1</use_guide>
 		<use_kf3>0</use_kf3>
